@@ -1,12 +1,12 @@
 # HTML-Challenge
  
-# Project Description
+## Project Description
 
 The tasks for this project include:
 - Deliverable 1: Scrape titles and preview text from Mars new articles
 - Deliverable 2: Scrape and analyze Mars weather data, which exists in a table
 
-# Questions for Analysis
+## Questions for Analysis
 Both deliverables are given a Starter Code that is opened using Jupyter Notebook.
  
 Deliverable 1: Scrape Titles and Preview Text from Mars News
@@ -32,7 +32,20 @@ Deliverable 2: Scrape and Analyze Mars Weather Data
 
 6. Export the DataFrame to a CSV file.
 
-# Files
+## Files
 1. part_1_mars_news jupyter source file
 2. part_2_mars_weather jupyter source file
 3. mars_weather csv file
+
+## Dependencies
+1. splinter
+2. BeautifulSoup
+3. matplotlib.pyplot
+4. pandas
+5. numpy
+
+## Programs/Languages
+1. Python
+2. Jupyter Notebook
+3. HTML
+
